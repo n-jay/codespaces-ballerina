@@ -1,5 +1,8 @@
 [package]
-distribution = "slbeta6"
+org = "vscode"
+name = "greeter"
+version = "0.1.0"
+distribution = "2201.4.0"
 
 [build-options]
 observabilityIncluded = true
