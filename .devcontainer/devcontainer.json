@@ -1,4 +1,7 @@
 {
     "image": "ballerina/ballerina-devcontainer:2201.4.0",
+    "hostRequirements": {
+        "cpus": 4
+      },
     "extensions": ["WSO2.ballerina"],
 }
